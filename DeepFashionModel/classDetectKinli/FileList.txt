@@ -1,0 +1,18 @@
+Large files removed due to size
+last status:
+total 155576
+-rwxr-xr-x 1 rexbarker rexbarker     13273 Mär 24 00:35 DeepF_ClassTrain.py*
+-rw-rw-r-- 1 rexbarker rexbarker   4028550 Mär 24 00:14 dict_test.json
+-rw-rw-r-- 1 rexbarker rexbarker  21064972 Mär 24 00:15 dict_train.json
+-rw-rw-r-- 1 rexbarker rexbarker   4028169 Mär 24 00:15 dict_val.json
+-rwxr-xr-x 1 rexbarker rexbarker      1545 Mär 24 16:20 iterationTracker.py*
+-rw-r--r-- 1 rexbarker rexbarker         0 Mär 24 00:29 log_20190324_0029.csv
+-rw-r--r-- 1 rexbarker rexbarker         0 Mär 24 00:30 log_20190324_0030.csv
+-rw-r--r-- 1 rexbarker rexbarker         0 Mär 24 00:33 log_20190324_0033.csv
+-rw-r--r-- 1 rexbarker rexbarker         0 Mär 24 00:34 log_20190324_0034.csv
+-rw-r--r-- 1 rexbarker rexbarker     45561 Mär 25 15:24 log_20190324_0035.csv
+drwxr-xr-x 2 rexbarker rexbarker      4096 Mär 24 00:35 logs/
+-rw-r--r-- 1 rexbarker rexbarker 130093536 Mär 25 15:24 model_20190324_0035.h5
+drwxr-xr-x 2 rexbarker rexbarker      4096 Mär 23 23:14 models/
+-rw-r--r-- 1 rexbarker rexbarker        45 Apr  6 23:32 README.md
+drwxr-xr-x 3 rexbarker rexbarker      4096 Mär 25 12:43 trials/

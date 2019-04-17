@@ -1,0 +1,27 @@
+Files removed due to size:
+model_frcnn.hdf5
+Log.txt
+LogData.json
+
+Last status:
+total 275456
+-rw-r--r-- 1 rexbarker rexbarker       867 Mär  2 00:17 config.pickle
+-rw-r--r-- 1 rexbarker rexbarker     95457 Feb 17 14:05 createAnnotationFile_CropToBBox.ipynb
+-rw-r--r-- 1 rexbarker rexbarker      4303 Feb 17 13:38 CropImagesToBBoxes.ipynb
+-rwxrwxr-x 1 rexbarker rexbarker       185 Feb 23 00:11 keepAlive.sh*
+drwxrwxr-x 3 rexbarker rexbarker      4096 Feb 14 23:05 keras_frcnn/
+-rw-rw-r-- 1 rexbarker rexbarker     11357 Feb 13 23:43 LICENSE
+-rw-r--r-- 1 rexbarker rexbarker    187369 Mär  6 22:12 LogData.json
+-rw-r--r-- 1 rexbarker rexbarker    204844 Mär  7 00:28 LogFileAccuracyError.ipynb
+-rw-r--r-- 1 rexbarker rexbarker 167580587 Mär  6 21:57 Log.txt
+-rw-rw-r-- 1 rexbarker rexbarker      8087 Feb 13 23:43 measure_map.py
+-rw-r--r-- 1 rexbarker rexbarker 113893120 Mär  6 01:04 model_frcnn.hdf5
+drwxr-xr-x 2 rexbarker rexbarker      4096 Apr  6 23:10 models/
+-rw-rw-r-- 1 rexbarker rexbarker      2902 Feb 13 23:43 README.md
+-rw-r--r-- 1 rexbarker rexbarker        57 Apr  6 23:13 README_removedfiles.md
+-rw-rw-r-- 1 rexbarker rexbarker        46 Feb 13 23:43 requirements.txt
+-rw-r--r-- 1 rexbarker rexbarker         0 Feb 19 23:09 testfile.txt
+-rw-rw-r-- 1 rexbarker rexbarker      7775 Feb 13 23:43 test_frcnn.py
+-rw-rw-r-- 1 rexbarker rexbarker     10262 Apr  6 22:44 test_frcnn_video.py
+-rw-rw-r-- 1 rexbarker rexbarker     11949 Feb 17 23:34 train_frcnn.py
+drwxr-xr-x 8 rexbarker rexbarker      4096 Mär  6 23:06 trials/
