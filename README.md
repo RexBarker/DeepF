@@ -4,21 +4,21 @@
 Fashion analysis based on the Deep Fashion Dataset.  The following nomenclature applies
 - 'category':  clothing classification into 'upper', 'lower', and 'full' body clothing
 - 'class'   :  within categories, the different classes of clothing items (e.g. 'Tee', 'Blouse', etc.)
-- **classDetect** : analysis of 
 
 ### Setup Environment
 
 This project assumes that you have setup your environment already. This project is based on the
 following main dependencies (this is at the time of execution.  Newer versions may also work):
 - **classDetect**, **classDetectKinli** : 
--   python=3.6.7
--   tensorflow-gpu=1.11.0
--   keras=2.2.4
+   python=3.6.7
+   tensorflow-gpu=1.11.0
+   keras=2.2.4
 
 - **keras-frcnn** :
--   python=3.6.8
--   tensorflow-gpu=1.8.0
--   keras=2.2.0
+   python=3.6.8
+   tensorflow-gpu=1.8.0
+   keras=2.2.0
+
 (note:  this older version of keras/tensorflow was required as there is a bug in the newer version
 which causes a fatal error during model training)
 
