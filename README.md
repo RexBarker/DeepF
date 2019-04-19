@@ -64,10 +64,10 @@ After analysis, utilise the analysis scripts as given in the ./DeepFashionAnalys
 
 ### RESULTS
 ***classDetectKinli*** :
-![alt text](https://raw.githubusercontent.com/RexBarker/DeepF/blob/master/Results/DeepFashionResult.png "DeepFashion datset")
+![alt text](https://github.com/RexBarker/DeepF/blob/master/Results/DeepFashionResult.png "DeepFashion datset")
 
 ***keras-frcnn***      :
-![alt text](https://raw.githubusercontent.com/RexBarker/DeepF/blob/master/Results/StreetStyleResult.png "StreetStyle datset")
+![alt text](https://github.com/RexBarker/DeepF/blob/master/Results/StreetStyleResult.png "StreetStyle datset")
 
 
 ### Acknowledgment
