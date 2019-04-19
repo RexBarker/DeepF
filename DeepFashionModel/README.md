@@ -1,4 +1,4 @@
-# DeepFashionArchive
+# DeepFashionModel
 - this archive is a colletion of the training scripts
 - used in the Ubuntu system for training
 - System config:
