@@ -24,8 +24,7 @@ which causes a fatal error during model training)
 
 - hints:  I used the anaconda python builds with seperate environments for both models,
  on a Ubuntu 18.04 LTS with Xeon 6-core 3.5 GHz, 12 GB RAM, NVIDIA GTX 970 4GB GPU, Cuda 9.0
-- Other systems may work, but GPU training is a must (w/o GPU training, the simple model required
- > 2 weeks of constant computation on a 4-core Ubuntu laptop and still didn't reach convergence :-/)    
+- Other systems may work, but GPU training is a must (w/o GPU training, the simple model required > 2 weeks of constant computation on a 4-core Ubuntu laptop and still didn't reach convergence :-/)    
 
 ### Download DeepFashion Dataset 
 - exercise left to the student... here's basically how you do it:
