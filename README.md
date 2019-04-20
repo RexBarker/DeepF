@@ -70,4 +70,5 @@ After analysis, utilise the analysis scripts as given in the ./DeepFashionAnalys
 
 ### Acknowledgment
 - [DeepFashion Dataset](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html)
+- [DeepFashion Analysis](https://medium.com/@birdortyedi_23820/deep-learning-lab-episode-4-deep-fashion-2df9e15a63e1)
 - [StreetStyle Dataset](http://streetstyle.cs.cornell.edu/index.html)
