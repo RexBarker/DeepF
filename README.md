@@ -63,7 +63,7 @@ After analysis, utilise the analysis scripts as given in the ./DeepFashionAnalys
 
 
 ### RESULTS
-[Full presentation](https://github.com/RexBarker/DeepF/blob/master/Deep%20Fashion%20Presentation_benign.pptx)
+[Full presentation](https://github.com/RexBarker/DeepF/blob/master/Deep_Fashion_benign.pdf)
 
 ![alt text](https://github.com/RexBarker/DeepF/blob/master/Results/DeepFashionResult.png "DeepFashion datset")
 
